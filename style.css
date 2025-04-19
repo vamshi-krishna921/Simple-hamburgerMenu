@@ -38,7 +38,7 @@ header {
   header nav {
     position: absolute;
     flex-direction: column;
-    top: 20px;
+    top: 14px;
     right: -160px;
     width: 20dvh;
     height: 20dvh;
