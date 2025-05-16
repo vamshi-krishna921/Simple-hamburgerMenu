@@ -42,6 +42,7 @@ header {
     right: -160px;
     width: 20dvh;
     height: 20dvh;
+    overflow: hidden;
     transition: all .5s ease-in-out;
   }
   .menu-open nav {
